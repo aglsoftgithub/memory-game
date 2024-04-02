@@ -80,9 +80,10 @@ body {
   align-items: center;
 }
 
-.card:active .inner-card {
+/* used here for test but implemented in JavaScript */
+/*.card:active .inner-card {
   transform: rotateY(180deg);
-}
+}*/
 
 .card-front,
 .card-back {
